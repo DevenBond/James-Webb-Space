@@ -1,0 +1,64 @@
+body{
+	
+}
+
+header{
+	font-size: 5vw;
+	color: purple;
+	font-family: 'Rubik Wet Paint', cursive;
+}
+
+body {
+	background-color: plum;
+	font-size: 30px;
+	font-family: 'Rubik', sans-serif;
+}
+
+nav a{
+	font-size: 10;
+	text-decoration: none;
+	padding: 2% 9;
+	margin: 1%;
+	color: mediumpurple;
+}
+
+nav{
+	width: 100%;
+	text-align: center;
+	background-color: rebeccapurple;
+	padding: 1% 0;
+	font-size: 2vw;
+}
+
+nav a:hover{
+	background-color: paleturquoise;
+	text-align: center;
+	padding: 3% 0;
+	font-size: 2vw;
+}
+
+nav ul{
+	list-style-type: none;
+}
+
+nav li{
+	display: inline;
+	width: 5%
+}
+
+p{
+	
+}
+
+h1{
+	color: aqua;
+	font-family: 'Rubik Pixels', cursive;;
+}
+
+li{
+	
+}
+
+img {
+	
+}
